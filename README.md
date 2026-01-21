@@ -1,7 +1,7 @@
 # PL-SQL-project
 PL / SQL Project based on a library's database.
 
-<img src="https://i.imgur.com/c0NVbry.png">
+
 
 <h3>Normalization</h3>
 <ul>
